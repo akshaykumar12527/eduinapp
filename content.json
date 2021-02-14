@@ -1,0 +1,81 @@
+{
+    "subjects": [
+        {
+            "title": "Maths",
+            "hasDirectory": true,
+            "data": [
+                {
+                    "title": "Assignments",
+                    "data": [
+                        "11.pdf",
+                        "12.pdf",
+                        "13.pdf",
+                        "14.pdf",
+                        "15.pdf",
+                        "21.pdf",
+                        "22.pdf",
+                        "23.pdf",
+                        "24.pdf",
+                        "41.pdf",
+                        "42.pdf",
+                        "43.pdf",
+                        "44.pdf",
+                        "45.pdf",
+                        "51.pdf",
+                        "52.pdf",
+                        "53.pdf",
+                        "54.pdf",
+                        "55.pdf",
+                        "56.pdf",
+                        "72.pdf",
+                        "73.pdf",
+                        "74.pdf",
+                        "81.pdf",
+                        "82.pdf",
+                        "83.pdf",
+                        "85.pdf"
+                    ]
+                },
+                {
+                    "title": "Formulas",
+                    "data": [
+                        "Real numbers Formula.pdf",
+                        "Polynomials Formula.pdf",
+                        "Pair of Linear Equations Formula.pdf",
+                        "Quadratic Equations Formula.pdf",
+                        "Arithmetic Progression Formula.pdf",
+                        "Triangles Formula.pdf",
+                        "Coordinate Geometry Formula.pdf",
+                        "Trigonometry Formula.pdf",
+                        "Application of Trigononmetry Formula.pdf",
+                        "Circles Formula.pdf",
+                        "Construction Formula.pdf",
+                        "Area Related to Circles Formula.pdf",
+                        "Surface Areas and Volumes Formula.pdf",
+                        "Statistics Formula.pdf",
+                        "Probability Formula.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Science",
+            "hasDirectory": false,
+            "data": [
+                "Chemical Reactions and Equations.pdf",
+                "Acids, Bases and Salts.pdf",
+                "Metals and Non-metals.pdf",
+                "Carbon and its compounds.pdf",
+                "Periodic Classification of Elements.pdf",
+                "Life processes.pdf",
+                "Control and Coordination.pdf",
+                "How do Organisms Reproduce.pdf",
+                "Heredity and Evolution.pdf",
+                "Light Reflection and Refraction.pdf",
+                "Human Eye.pdf",
+                "Electricity.pdf",
+                "Magnetic effects of electric current.pdf"
+            ]
+        }
+    ]
+}
