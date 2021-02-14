@@ -1,54 +1,77 @@
 [
     {
+        "name": "Sahib",
+        "mobile": "9034466872",
+        "password": "sahib1234"
+    },
+    {
+        "name": "Akshay",
+        "mobile": "8802813876",
+        "password": "akki1234"
+    },
+    {
         "name": "Chinmay",
-        "mobile": "7206011529"
+        "mobile": "7206011529",
+        "password": "nVb7Lk"
     },
     {
         "name": "Hitesh",
-        "mobile": "9877770777"
+        "mobile": "9877770777",
+        "password": "ADmhfu"
     },
     {
         "name": "Jatin",
-        "mobile": "9416244605"
+        "mobile": "9416244605",
+        "password": "3ZZeWt"
     },
     {
         "name": "Moksh",
-        "mobile": "9306297970"
+        "mobile": "9306297970",
+        "password": "nSbbi0"
     },
     {
         "name": "Madhvi",
-        "mobile": "9817317017"
+        "mobile": "9817317017",
+        "password": "5hicuC"
     },
     {
         "name": "Nitin",
-        "mobile": "9518803956"
+        "mobile": "9518803956",
+        "password": "0IanyT"
     },
     {
         "name": "Priya",
-        "mobile": "9991273110"
+        "mobile": "9991273110",
+        "password": "onjASz"
     },
     {
         "name": "Ravi",
-        "mobile": "9996907045"
+        "mobile": "9996907045",
+        "password": "w6yMil"
     },
     {
         "name": "Ritu",
-        "mobile": "8171394167"
+        "mobile": "8171394167",
+        "password": "0AuAMI"
     },
     {
         "name": "Riya",
-        "mobile": "9817829880"
+        "mobile": "9817829880",
+        "password": "aMNCZA"
     },
     {
         "name": "Saloni",
-        "mobile": "9812251477"
+        "mobile": "9812251477",
+        "password": "9s5gNR"
     },
     {
         "name": "Varsha",
-        "mobile": "9817615618"
+        "mobile": "9817615618",
+        "password": "tBsZFe"
     },
     {
         "name": "Yuvika",
-        "mobile": "9416699107"
+        "mobile": "9416699107",
+        "password": "9W8bGt"
     }
 ]
