@@ -1,77 +1,98 @@
 [
     {
-        "name": "Sahib",
-        "mobile": "9034466872",
-        "password": "sahib1234"
-    },
-    {
         "name": "Akshay",
         "mobile": "8802813876",
-        "password": "akki1234"
+        "deviceId": "0597b5c829b324a7",
+        "password": "akshay@1234"
+    },
+    {
+        "name": "Sahib",
+        "mobile": "9034466872",
+        "deviceId": "5b37dfe2562a7e5b",
+        "password": "sahib@1234"
+    },
+    {
+        "name": "Bhaskar",
+        "mobile": "9518617596",
+        "deviceId": "ddb99dd9aa38a481",
+        "password": "bhaskar@1234"
     },
     {
         "name": "Chinmay",
         "mobile": "7206011529",
-        "password": "nVb7Lk"
+        "deviceId": "129340c9ce537341",
+        "password": "chinmay@1234"
     },
     {
         "name": "Hitesh",
         "mobile": "9877770777",
-        "password": "ADmhfu"
+        "deviceId": "6ca72a9182d035a7",
+        "password": "hitesh@1234"
     },
     {
         "name": "Jatin",
         "mobile": "9416244605",
-        "password": "3ZZeWt"
+        "deviceId": "fc244f3f9bce8c3f",
+        "password": "jatin@1234"
     },
     {
         "name": "Moksh",
         "mobile": "9306297970",
-        "password": "nSbbi0"
+        "deviceId": "57e4d6473e5805ea",
+        "password": "moksh@1234"
     },
     {
         "name": "Madhvi",
         "mobile": "9817317017",
-        "password": "5hicuC"
+        "deviceId": "cd221e53e62d9164",
+        "password": "madhvi@1234"
     },
     {
         "name": "Nitin",
         "mobile": "9518803956",
-        "password": "0IanyT"
+        "deviceId": "b68c86ae58a29277",
+        "password": "nitin@1234"
     },
     {
         "name": "Priya",
         "mobile": "9991273110",
-        "password": "onjASz"
+        "deviceId": "ccec383d808af626",
+        "password": "priya@1234"
     },
     {
         "name": "Ravi",
         "mobile": "9996907045",
-        "password": "w6yMil"
+        "deviceId": "8de0b614c947f63b",
+        "password": "ravi@1234"
     },
     {
         "name": "Ritu",
         "mobile": "8171394167",
-        "password": "0AuAMI"
+        "deviceId": "b296c8e323b43a45",
+        "password": "ritu@1234"
     },
     {
         "name": "Riya",
         "mobile": "9817829880",
-        "password": "aMNCZA"
+        "deviceId": "edb5adbc4c564e0e",
+        "password": "riya@1234"
     },
     {
         "name": "Saloni",
         "mobile": "9812251477",
-        "password": "9s5gNR"
+        "deviceId": "ff7d50e98b01d68b",
+        "password": "saloni@1234"
     },
     {
         "name": "Varsha",
         "mobile": "9817615618",
-        "password": "tBsZFe"
+        "deviceId": "19526a9d108217df",
+        "password": "varsha@1234"
     },
     {
         "name": "Yuvika",
         "mobile": "9416699107",
-        "password": "9W8bGt"
+        "deviceId": "134fc03f27679c09",
+        "password": "yuvika@1234"
     }
 ]
