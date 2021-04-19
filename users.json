@@ -105,5 +105,11 @@
         "mobile": "9416699107",
         "deviceId": "134fc03f27679c09",
         "password": "yuvika@1234"
+    },
+    {
+        "name": "Dev",
+        "mobile": "8307844547",
+        "deviceId": "ae87473cb2cc2f01",
+        "password": "dev@1234"
     }
 ]
