@@ -4,131 +4,150 @@
         "mobile": "9255417670",
         "deviceId": "0f570cdec5c7f83c",
         "password": "akki@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Akshay",
         "mobile": "8802813876",
         "deviceId": "a65169dd20aa243e",
         "password": "akshay@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Sahib",
         "mobile": "9034466872",
         "deviceId": "5b37dfe2562a7e5b",
         "password": "sahib@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Bhaskar",
         "mobile": "9518617596",
         "deviceId": "ddb99dd9aa38a481",
         "password": "bhaskar@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Chinmay",
         "mobile": "7206011529",
         "deviceId": "129340c9ce537341",
         "password": "chinmay@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Hitesh",
         "mobile": "9877770777",
         "deviceId": "6ca72a9182d035a7",
         "password": "hitesh@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Jatin",
         "mobile": "9350042964",
         "deviceId": "fc244f3f9bce8c3f",
         "password": "jatin@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },{
         "name": "Jatin",
         "mobile":"9416244605",
         "deviceId":"81bc47bad2d0fe5f",
         "password": "jatin@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Moksh",
         "mobile": "9306297970",
         "deviceId": "57e4d6473e5805ea",
         "password": "moksh@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Madhvi",
         "mobile": "9817317017",
         "deviceId": "cd221e53e62d9164",
         "password": "madhvi@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Nitin",
         "mobile": "9518803956",
         "deviceId": "79857af1df9c7122",
         "password": "nitin@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Priya",
         "mobile": "9991273110",
         "deviceId": "ccec383d808af626",
         "password": "priya@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Ravi",
         "mobile": "9996907045",
         "deviceId": "8de0b614c947f63b",
         "password": "ravi@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Ritu",
         "mobile": "8171394167",
         "deviceId": "b296c8e323b43a45",
         "password": "ritu@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Riya",
         "mobile": "9817829880",
         "deviceId": "edb5adbc4c564e0e",
         "password": "riya@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Saloni",
         "mobile": "9812251477",
         "deviceId": "ff7d50e98b01d68b",
         "password": "saloni@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Varsha",
         "mobile": "9817615618",
         "deviceId": "19526a9d108217df",
         "password": "varsha@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Yuvika",
         "mobile": "9416699107",
         "deviceId": "134fc03f27679c09",
         "password": "yuvika@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     },
     {
         "name": "Dev",
         "mobile": "8307844547",
         "deviceId": "ae87473cb2cc2f01",
         "password": "dev@1234",
-        "standard": 10
+        "standard": 10,
+        "subjects": ["maths", "science"]
     }
 ]
