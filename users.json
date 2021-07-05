@@ -7,14 +7,7 @@
         "standard": 10,
         "subjects": ["maths", "science"]
     },
-    {
-        "name":"Akshay",
-        "mobile": "9255417670",
-        "deviceId": "0f570cdec5c7f83c",
-        "password": "akki@1234",
-        "standard": 10,
-        "subjects": ["maths", "science"]
-    },
+   
     {
         "name": "Akshay",
         "mobile": "8802813876",
@@ -28,7 +21,7 @@
         "mobile": "9034466872",
         "deviceId": "5b37dfe2562a7e5b",
         "password": "sahib@1234",
-        "standard": 9,
+        "standard": 10,
         "subjects": ["maths", "science"]
     },
     {
