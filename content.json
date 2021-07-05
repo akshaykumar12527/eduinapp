@@ -78,6 +78,42 @@
                     "Magnetic effects of electric current.pdf"
                 ]
             }
+        ],
+        "9": [
+            {
+                "title": "Maths",
+                "hasDirectory": true,
+                "data": [
+                    {
+                        "title": "Assignments",
+                        "data": [
+                            "11.pdf",
+                            "12.pdf",
+                            "13.pdf",
+                            "14.pdf",
+                            "15.pdf",
+                            "16.pdf",
+                            "21.pdf",
+                            "21.1.pdf",
+                            "21.2.pdf",
+                            "23.pdf",
+                            "24.pdf",
+                            "25.pdf",
+                            "26.pdf",
+                            "28.pdf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Science",
+                "hasDirectory": false,
+                "data": [
+                    "1. Matter in our surroundings.pdf",
+                    "5. The Fundamental Unit of Life.pdf",
+                    "8. Motion.pdf"
+                ]
+            }
         ]
     }
 }
