@@ -21,7 +21,7 @@
         "mobile": "9034466872",
         "deviceId": "5b37dfe2562a7e5b",
         "password": "sahib@1234",
-        "standard": 10,
+        "standard": 9,
         "subjects": ["maths", "science"]
     },
     {
@@ -55,7 +55,8 @@
         "password": "navya@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
-    },{
+    },
+    {
         "name": "Divyansh",
         "mobile":"9991661551",
         "deviceId":"aabd98ed9b07e418",
