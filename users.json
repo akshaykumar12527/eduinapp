@@ -19,7 +19,7 @@
     {
         "name": "Sahib",
         "mobile": "9034466872",
-        "deviceId": "5b37dfe2562a7e5b",
+        "deviceId": "",
         "password": "sahib@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
@@ -35,7 +35,7 @@
     {
         "name": "Shivam",
         "mobile": "8307086490",
-        "deviceId": "649a6157e3a33f23",
+        "deviceId": "5b37dfe2562a7e5b",
         "password": "shivam@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
