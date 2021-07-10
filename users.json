@@ -72,6 +72,14 @@
         "standard": 9,
         "subjects": ["maths", "science"]
     },
+    {
+        "name": "Vipul",
+        "mobile": "9466909481",
+        "deviceId": "7877ae58a6ab49d3",
+        "password": "vipul@1234",
+        "standard": 9,
+        "subjects": ["maths", "science"]
+    },
    
     {
         "name": "Rohan",
