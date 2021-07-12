@@ -33,6 +33,14 @@
         "subjects": ["maths", "science"]
     },
     {
+        "name": "Nidhish",
+        "mobile": "8708295706",
+        "deviceId": "c549b80eaaf04c5e",
+        "password": "nidhish@1234",
+        "standard": 10,
+        "subjects": ["maths", "science"]
+    },
+    {
         "name": "Shivam",
         "mobile": "8307086490",
         "deviceId": "649a6157e3a33f23",
