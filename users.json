@@ -127,5 +127,13 @@
         "password": "naveen@1234",
         "standard": 10,
         "subjects": ["maths", "science"]
+    },
+    {
+        "name": "Chandni",
+        "mobile": "9588355470",
+        "deviceId": "648480a8f116b210",
+        "password": "chandni@1234",
+        "standard": 10,
+        "subjects": ["maths", "science"]
     }
 ]
