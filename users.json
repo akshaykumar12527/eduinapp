@@ -19,7 +19,7 @@
     {
         "name": "Sahib",
         "mobile": "9034466872",
-        "deviceId": "5b37dfe2562a7e5b",
+        "deviceId": null,
         "password": "sahib@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
