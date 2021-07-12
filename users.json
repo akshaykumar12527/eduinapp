@@ -2,7 +2,7 @@
     {
         "name":"Akshay",
         "mobile": "9255417670",
-        "deviceId": "0f570cdec5c7f83c",
+        "deviceId": "cbe7fb99ed78ba56",
         "password": "akki@1234",
         "standard": 10,
         "subjects": ["maths", "science"]
@@ -19,7 +19,7 @@
     {
         "name": "Sahib",
         "mobile": "9034466872",
-        "deviceId": "5b37dfe2562a7e5b",
+        "deviceId": null,
         "password": "sahib@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
