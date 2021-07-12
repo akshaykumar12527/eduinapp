@@ -33,14 +33,6 @@
         "subjects": ["maths", "science"]
     },
     {
-        "name": "Nidhish",
-        "mobile": "8708295706",
-        "deviceId": "c549b80eaaf04c5e",
-        "password": "nidhish@1234",
-        "standard": 10,
-        "subjects": ["maths", "science"]
-    },
-    {
         "name": "Shivam",
         "mobile": "8307086490",
         "deviceId": "a1c1663f7e9f1d4c",
@@ -75,7 +67,7 @@
     {
         "name": "Vipul",
         "mobile": "9466450193",
-        "deviceId": "0f6011f9004d7233",
+        "deviceId": "d6b20df5ffee4e13",
         "password": "vipul@1234",
         "standard": 9,
         "subjects": ["maths", "science"]
@@ -109,6 +101,22 @@
         "mobile": "7082833178",
         "deviceId": "42ca0c2e36f0f23d",
         "password": "sudhir@1234",
+        "standard": 10,
+        "subjects": ["maths", "science"]
+    },
+    {
+        "name": "Nidhish",
+        "mobile": "8708295706",
+        "deviceId": "c549b80eaaf04c5e",
+        "password": "nidhish@1234",
+        "standard": 10,
+        "subjects": ["maths", "science"]
+    },
+    {
+        "name": "Nitya",
+        "mobile": "8708295706",
+        "deviceId": "c549b80eaaf04c5e",
+        "password": "nitya@1234",
         "standard": 10,
         "subjects": ["maths", "science"]
     }
