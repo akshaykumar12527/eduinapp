@@ -119,5 +119,13 @@
         "password": "nitya@1234",
         "standard": 10,
         "subjects": ["maths", "science"]
+    },
+    {
+        "name": "Naveen",
+        "mobile": "8295513904",
+        "deviceId": "c2e18e340de239d2",
+        "password": "naveen@1234",
+        "standard": 10,
+        "subjects": ["maths", "science"]
     }
 ]
